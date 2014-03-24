@@ -1,0 +1,210 @@
+
+/* Class = "IBUITableViewController"; title = "Master"; ObjectID = "12"; */
+"12.title" = "Master";
+
+/* Class = "IBUINavigationItem"; title = "ROM表"; ObjectID = "36"; */
+"36.title" = "ROM表";
+
+/* Class = "IBUITableViewSection"; footerTitle = "啟用Dropbox將會增加一個「nds4ios」文件夾到您的Dropbox帳戶。這將同步您的游戲保存到該文件夾，它會進行跨設備同步。（iPhone、iPad、iPod touch、Android、PC）。"; ObjectID = "0Py-uK-oNg"; */
+"0Py-uK-oNg.footerTitle" = "啟用Dropbox將會增加一個「nds4ios」文件夾到您的Dropbox帳戶。這將同步您的游戲保存到該文件夾，它會進行跨設備同步。（iPhone、iPad、iPod touch、Android、PC）。";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Dropbox"; ObjectID = "0Py-uK-oNg"; */
+"0Py-uK-oNg.headerTitle" = "Dropbox";
+
+/* Class = "IBUILabel"; text = "Jesús A. Álvarez (maczydeco)"; ObjectID = "0tz-2Z-sXn"; */
+"0tz-2Z-sXn.text" = "Jesús A. Álvarez (maczydeco)";
+
+/* Class = "IBUILabel"; text = "使用PayPal捐助"; ObjectID = "1M7-Sa-5aC"; */
+"1M7-Sa-5aC.text" = "使用PayPal捐助";
+
+/* Class = "IBUISegmentedControl"; 2i9-9X-BIw.segmentTitles[0] = "0"; ObjectID = "2i9-9X-BIw"; */
+"2i9-9X-BIw.segmentTitles[0]" = "0";
+
+/* Class = "IBUISegmentedControl"; 2i9-9X-BIw.segmentTitles[1] = "1"; ObjectID = "2i9-9X-BIw"; */
+"2i9-9X-BIw.segmentTitles[1]" = "1";
+
+/* Class = "IBUISegmentedControl"; 2i9-9X-BIw.segmentTitles[2] = "2"; ObjectID = "2i9-9X-BIw"; */
+"2i9-9X-BIw.segmentTitles[2]" = "2";
+
+/* Class = "IBUISegmentedControl"; 2i9-9X-BIw.segmentTitles[3] = "3"; ObjectID = "2i9-9X-BIw"; */
+"2i9-9X-BIw.segmentTitles[3]" = "3";
+
+/* Class = "IBUISegmentedControl"; 2i9-9X-BIw.segmentTitles[4] = "4"; ObjectID = "2i9-9X-BIw"; */
+"2i9-9X-BIw.segmentTitles[4]" = "4";
+
+/* Class = "IBUISegmentedControl"; 2i9-9X-BIw.segmentTitles[5] = "自動"; ObjectID = "2i9-9X-BIw"; */
+"2i9-9X-BIw.segmentTitles[5]" = "自動";
+
+/* Class = "IBUILabel"; text = "winocm (winocm)"; ObjectID = "3BR-VX-fvN"; */
+"3BR-VX-fvN.text" = "winocm (winocm)";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "3EM-sn-Rbx"; */
+"3EM-sn-Rbx.text" = "Title";
+
+/* Class = "IBUILabel"; text = "控制類型"; ObjectID = "628-xJ-TE3"; */
+"628-xJ-TE3.text" = "控制類型";
+
+/* Class = "IBUIBarButtonItem"; title = "分享"; ObjectID = "7A3-nC-GqP"; */
+"7A3-nC-GqP.title" = "分享";
+
+/* Class = "IBUILabel"; text = "捐助"; ObjectID = "7rs-Ee-hYD"; */
+"7rs-Ee-hYD.text" = "捐助";
+
+/* Class = "IBUILabel"; text = "Riley Testut (rileytestut)"; ObjectID = "AJS-fc-M6f"; */
+"AJS-fc-M6f.text" = "Riley Testut (rileytestut)";
+
+/* Class = "IBUISegmentedControl"; Aa4-Hv-ujp.segmentTitles[0] = "方向鍵"; ObjectID = "Aa4-Hv-ujp"; */
+"Aa4-Hv-ujp.segmentTitles[0]" = "方向鍵";
+
+/* Class = "IBUISegmentedControl"; Aa4-Hv-ujp.segmentTitles[1] = "搖杆"; ObjectID = "Aa4-Hv-ujp"; */
+"Aa4-Hv-ujp.segmentTitles[1]" = "搖杆";
+
+/* Class = "IBUILabel"; text = "Michael Zhang (Malvix_)"; ObjectID = "BbL-2O-lQB"; */
+"BbL-2O-lQB.text" = "Michael Zhang (Malvix_)";
+
+/* Class = "IBUILabel"; text = "ROM表"; ObjectID = "GCc-cx-jVv"; */
+"GCc-cx-jVv.text" = "ROM表";
+
+/* Class = "IBUILabel"; text = "Brian Tung (inb4ohnoes)"; ObjectID = "H5E-3d-qze"; */
+"H5E-3d-qze.text" = "Brian Tung (inb4ohnoes)";
+
+/* Class = "IBUILabel"; text = "title"; ObjectID = "HNM-OJ-Ky7"; */
+"HNM-OJ-Ky7.text" = "title";
+
+/* Class = "IBUITableViewSection"; footerTitle = "GNU Lighting JIT將讓游戲運行得更快。您必須越獄您的iOS設備，否則nds4ios會崩潰。"; ObjectID = "HQs-Z9-d7P"; */
+"HQs-Z9-d7P.footerTitle" = "GNU Lighting JIT將讓游戲運行得更快。您必須越獄您的iOS設備，否則nds4ios會崩潰。";
+
+/* Class = "IBUITableViewSection"; headerTitle = "實驗設置"; ObjectID = "HQs-Z9-d7P"; */
+"HQs-Z9-d7P.headerTitle" = "實驗設置";
+
+/* Class = "IBUITableViewSection"; headerTitle = "特別感謝"; ObjectID = "Iv8-eM-IZX"; */
+"Iv8-eM-IZX.headerTitle" = "特別感謝";
+
+/* Class = "IBUILabel"; text = "按鍵透明度"; ObjectID = "IzY-y9-rcs"; */
+"IzY-y9-rcs.text" = "按鍵透明度";
+
+/* Class = "IBUILabel"; text = "Angela Tsai (vanillastar67)"; ObjectID = "LLF-kC-ZfX"; */
+"LLF-kC-ZfX.text" = "Angela Tsai (vanillastar67)";
+
+/* Class = "IBUILabel"; text = "開啟Dropbox同步"; ObjectID = "M3y-fK-XWf"; */
+"M3y-fK-XWf.text" = "開啟Dropbox同步";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "MdE-38-mM4"; */
+"MdE-38-mM4.text" = "Subtitle";
+
+/* Class = "IBUILabel"; text = "跳幀"; ObjectID = "Mdm-Bf-hXu"; */
+"Mdm-Bf-hXu.text" = "跳幀";
+
+/* Class = "IBUITableViewSection"; headerTitle = "開發設置"; ObjectID = "O9Q-KX-eTM"; */
+"O9Q-KX-eTM.headerTitle" = "開發設置";
+
+/* Class = "IBUILabel"; text = "Version"; ObjectID = "Oph-va-v9C"; */
+"Oph-va-v9C.text" = "Version";
+
+/* Class = "IBUITableViewSection"; footerTitle = "我們很努力的使用戶可以享受和喜愛這個軟件。如果你喜歡這個軟件，請考慮捐助，以幫助我們做的更好。"; ObjectID = "PmD-1Z-6xs"; */
+"PmD-1Z-6xs.footerTitle" = "我們很努力的使用戶可以享受和喜愛這個軟件。如果你喜歡這個軟件，請考慮捐助，以幫助我們做的更好。";
+
+/* Class = "IBUILabel"; text = "顯示FPS"; ObjectID = "RV9-0b-oWH"; */
+"RV9-0b-oWH.text" = "顯示FPS";
+
+/* Class = "IBUITableViewSection"; headerTitle = "InfiniDev開發團隊"; ObjectID = "SF3-AI-Qqv"; */
+"SF3-AI-Qqv.headerTitle" = "InfiniDev開發團隊";
+
+/* Class = "IBUILabel"; text = "未鏈接"; ObjectID = "STN-h0-VIH"; */
+"STN-h0-VIH.text" = "未鏈接";
+
+/* Class = "IBUILabel"; text = "Pluto Wang (W.MS)"; ObjectID = "So0-BA-Lcq"; */
+"So0-BA-Lcq.text" = "Pluto Wang (W.MS)";
+
+/* Class = "IBUIButton"; normalTitle = "+"; ObjectID = "Tfv-eb-wYb"; */
+"Tfv-eb-wYb.normalTitle" = "+";
+
+/* Class = "IBUILabel"; text = "InfiniDev (InfiniDev_)"; ObjectID = "Tta-Oi-9kd"; */
+"Tta-Oi-9kd.text" = "InfiniDev (InfiniDev_)";
+
+/* Class = "IBUISegmentedControl"; WTS-jQ-bi4.segmentTitles[0] = "頂部"; ObjectID = "WTS-jQ-bi4"; */
+"WTS-jQ-bi4.segmentTitles[0]" = "頂部";
+
+/* Class = "IBUISegmentedControl"; WTS-jQ-bi4.segmentTitles[1] = "底部"; ObjectID = "WTS-jQ-bi4"; */
+"WTS-jQ-bi4.segmentTitles[1]" = "底部";
+
+/* Class = "IBUINavigationItem"; title = "捐助"; ObjectID = "Xrj-DG-nws"; */
+"Xrj-DG-nws.title" = "捐助";
+
+/* Class = "IBUITableViewSection"; headerTitle = "控制設置"; ObjectID = "Y6o-vJ-AvE"; */
+"Y6o-vJ-AvE.headerTitle" = "控制設置";
+
+/* Class = "IBUITableViewSection"; footerTitle = "像素網格會使畫面看上去更清晰，但是黑色的網格會降低一半的亮度。"; ObjectID = "Zfz-To-hqF"; */
+"Zfz-To-hqF.footerTitle" = "像素網格會使畫面看上去更清晰，但是黑色的網格會降低一半的亮度。";
+
+/* Class = "IBUITableViewSection"; headerTitle = "模擬器設置"; ObjectID = "Zfz-To-hqF"; */
+"Zfz-To-hqF.headerTitle" = "模擬器設置";
+
+/* Class = "IBUILabel"; text = "GNU Lightning JIT"; ObjectID = "bIB-FM-Hft"; */
+"bIB-FM-Hft.text" = "GNU Lightning JIT";
+
+/* Class = "IBUILabel"; text = "rock88"; ObjectID = "bh8-WB-hUD"; */
+"bh8-WB-hUD.text" = "rock88";
+
+/* Class = "IBUILabel"; text = "David Chavez (dchavezlive)"; ObjectID = "cHf-jH-M4g"; */
+"cHf-jH-M4g.text" = "David Chavez (dchavezlive)";
+
+/* Class = "IBUILabel"; text = "振動"; ObjectID = "cNL-IT-Ar0"; */
+"cNL-IT-Ar0.text" = "振動";
+
+/* Class = "IBUILabel"; text = "Jesús Higueras (GranPC)"; ObjectID = "e2d-NO-1P9"; */
+"e2d-NO-1P9.text" = "Jesús Higueras (GranPC)";
+
+/* Class = "IBUILabel"; text = "DeSmuME"; ObjectID = "e63-3V-ruV"; */
+"e63-3V-ruV.text" = "DeSmuME";
+
+/* Class = "IBUILabel"; text = "禁用聲音"; ObjectID = "gJw-qx-K1N"; */
+"gJw-qx-K1N.text" = "禁用聲音";
+
+/* Class = "IBUILabel"; text = "按鍵位置"; ObjectID = "h11-xO-hGl"; */
+"h11-xO-hGl.text" = "按鍵位置";
+
+/* Class = "IBUILabel"; text = "附疊網格"; ObjectID = "i1H-5W-GBv"; */
+"i1H-5W-GBv.text" = "附疊網格";
+
+/* Class = "IBUILabel"; text = "關於nds4ios"; ObjectID = "jfi-JX-LAK"; */
+"jfi-JX-LAK.text" = "關於nds4ios";
+
+/* Class = "IBUILabel"; text = "Jeffrey Quesnelle (jquesnelle)"; ObjectID = "kG7-Fu-rp5"; */
+"kG7-Fu-rp5.text" = "Jeffrey Quesnelle (jquesnelle)";
+
+/* Class = "IBUILabel"; text = "60 FPS"; ObjectID = "mo4-qa-NUQ"; */
+"mo4-qa-NUQ.text" = "60 FPS";
+
+/* Class = "IBUITableViewSection"; headerTitle = "貢獻者"; ObjectID = "oNt-fv-07h"; */
+"oNt-fv-07h.headerTitle" = "貢獻者";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "phq-AM-6qj"; */
+"phq-AM-6qj.text" = "Title";
+
+/* Class = "IBUITableViewSection"; headerTitle = "InfiniDev"; ObjectID = "rPI-it-7HS"; */
+"rPI-it-7HS.headerTitle" = "InfiniDev";
+
+/* Class = "IBUINavigationItem"; title = "設置"; ObjectID = "rWF-4U-yKM"; */
+"rWF-4U-yKM.title" = "設置";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "uk4-JL-OOl"; */
+"uk4-JL-OOl.text" = "Subtitle";
+
+/* Class = "IBUINavigationItem"; title = "關於nds4ios"; ObjectID = "wjq-Iv-O9N"; */
+"wjq-Iv-O9N.title" = "關於nds4ios";
+
+/* Class = "IBUILabel"; text = "Karen Tsai (angelXwind)"; ObjectID = "yv5-13-ZPv"; */
+"yv5-13-ZPv.text" = "Karen Tsai (angelXwind)";
+
+/* Class = "IBUITableViewSection"; footerTitle = "© 2013-2014 InfiniDev"; ObjectID = "zoU-Tc-bmD"; */
+"zoU-Tc-bmD.footerTitle" = "© 2013-2014 InfiniDev";
+
+/* Class = "IBUITableViewSection"; headerTitle = "關於nds4ios"; ObjectID = "zoU-Tc-bmD"; */
+"zoU-Tc-bmD.headerTitle" = "關於nds4ios";
+
+/* Class = "IBUILabel"; text = "設置"; ObjectID = "zr6-zi-kgl"; */
+"zr6-zi-kgl.text" = "設置";
+
+/* Class = "IBUILabel"; text = "1.0"; ObjectID = "zt4-NA-0xW"; */
+"zt4-NA-0xW.text" = "1.0";

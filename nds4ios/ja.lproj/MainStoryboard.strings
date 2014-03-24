@@ -1,0 +1,210 @@
+
+/* Class = "IBUITableViewController"; title = "Master"; ObjectID = "12"; */
+"12.title" = "Master";
+
+/* Class = "IBUINavigationItem"; title = "ROMリスト"; ObjectID = "36"; */
+"36.title" = "ROMリスト";
+
+/* Class = "IBUITableViewSection"; footerTitle = "有効化Dropbox同期はあなたのDropboxアカウントに「nds4ios」フォルダを追加します。あなたのセーブデータ（DSV）はそのDropboxフォルダに同期されます。 したがって、あなたのセーブデータはすべてのデバイスで利用できるようになります。（iPhone、iPad、iPod touch、Android、PC）"; ObjectID = "0Py-uK-oNg"; */
+"0Py-uK-oNg.footerTitle" = "有効化Dropbox同期はあなたのDropboxアカウントに「nds4ios」フォルダを追加します。あなたのセーブデータ（DSV）はそのDropboxフォルダに同期されます。 したがって、あなたのセーブデータはすべてのデバイスで利用できるようになります。（iPhone、iPad、iPod touch、Android、PC）";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Dropbox"; ObjectID = "0Py-uK-oNg"; */
+"0Py-uK-oNg.headerTitle" = "Dropbox";
+
+/* Class = "IBUILabel"; text = "Jesús A. Álvarez (maczydeco)"; ObjectID = "0tz-2Z-sXn"; */
+"0tz-2Z-sXn.text" = "Jesús A. Álvarez (maczydeco)";
+
+/* Class = "IBUILabel"; text = "PayPalを使って寄付する"; ObjectID = "1M7-Sa-5aC"; */
+"1M7-Sa-5aC.text" = "PayPalを使って寄付する";
+
+/* Class = "IBUISegmentedControl"; 2i9-9X-BIw.segmentTitles[0] = "0"; ObjectID = "2i9-9X-BIw"; */
+"2i9-9X-BIw.segmentTitles[0]" = "0";
+
+/* Class = "IBUISegmentedControl"; 2i9-9X-BIw.segmentTitles[1] = "1"; ObjectID = "2i9-9X-BIw"; */
+"2i9-9X-BIw.segmentTitles[1]" = "1";
+
+/* Class = "IBUISegmentedControl"; 2i9-9X-BIw.segmentTitles[2] = "2"; ObjectID = "2i9-9X-BIw"; */
+"2i9-9X-BIw.segmentTitles[2]" = "2";
+
+/* Class = "IBUISegmentedControl"; 2i9-9X-BIw.segmentTitles[3] = "3"; ObjectID = "2i9-9X-BIw"; */
+"2i9-9X-BIw.segmentTitles[3]" = "3";
+
+/* Class = "IBUISegmentedControl"; 2i9-9X-BIw.segmentTitles[4] = "4"; ObjectID = "2i9-9X-BIw"; */
+"2i9-9X-BIw.segmentTitles[4]" = "4";
+
+/* Class = "IBUISegmentedControl"; 2i9-9X-BIw.segmentTitles[5] = "オート"; ObjectID = "2i9-9X-BIw"; */
+"2i9-9X-BIw.segmentTitles[5]" = "オート";
+
+/* Class = "IBUILabel"; text = "winocm (winocm)"; ObjectID = "3BR-VX-fvN"; */
+"3BR-VX-fvN.text" = "winocm (winocm)";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "3EM-sn-Rbx"; */
+"3EM-sn-Rbx.text" = "Title";
+
+/* Class = "IBUILabel"; text = "コントロールパッドスタイル"; ObjectID = "628-xJ-TE3"; */
+"628-xJ-TE3.text" = "コントロールパッドスタイル";
+
+/* Class = "IBUIBarButtonItem"; title = "シェア"; ObjectID = "7A3-nC-GqP"; */
+"7A3-nC-GqP.title" = "シェア";
+
+/* Class = "IBUILabel"; text = "寄付"; ObjectID = "7rs-Ee-hYD"; */
+"7rs-Ee-hYD.text" = "寄付";
+
+/* Class = "IBUILabel"; text = "Riley Testut (rileytestut)"; ObjectID = "AJS-fc-M6f"; */
+"AJS-fc-M6f.text" = "Riley Testut (rileytestut)";
+
+/* Class = "IBUISegmentedControl"; Aa4-Hv-ujp.segmentTitles[0] = "Dパッド"; ObjectID = "Aa4-Hv-ujp"; */
+"Aa4-Hv-ujp.segmentTitles[0]" = "Dパッド";
+
+/* Class = "IBUISegmentedControl"; Aa4-Hv-ujp.segmentTitles[1] = "ジョイスティック"; ObjectID = "Aa4-Hv-ujp"; */
+"Aa4-Hv-ujp.segmentTitles[1]" = "ジョイスティック";
+
+/* Class = "IBUILabel"; text = "Michael Zhang (Malvix_)"; ObjectID = "BbL-2O-lQB"; */
+"BbL-2O-lQB.text" = "Michael Zhang (Malvix_)";
+
+/* Class = "IBUILabel"; text = "ROMリスト"; ObjectID = "GCc-cx-jVv"; */
+"GCc-cx-jVv.text" = "ROMリスト";
+
+/* Class = "IBUILabel"; text = "Brian Tung (inb4ohnoes)"; ObjectID = "H5E-3d-qze"; */
+"H5E-3d-qze.text" = "Brian Tung (inb4ohnoes)";
+
+/* Class = "IBUILabel"; text = "title"; ObjectID = "HNM-OJ-Ky7"; */
+"HNM-OJ-Ky7.text" = "title";
+
+/* Class = "IBUITableViewSection"; footerTitle = "GNU Lightning JITはエミュレーションが速くなります。"; ObjectID = "HQs-Z9-d7P"; */
+"HQs-Z9-d7P.footerTitle" = "GNU Lightning JITはエミュレーションが速くなります。";
+
+/* Class = "IBUITableViewSection"; headerTitle = "実験的"; ObjectID = "HQs-Z9-d7P"; */
+"HQs-Z9-d7P.headerTitle" = "実験的";
+
+/* Class = "IBUITableViewSection"; headerTitle = "エミュレータコアコード"; ObjectID = "Iv8-eM-IZX"; */
+"Iv8-eM-IZX.headerTitle" = "エミュレータコアコード";
+
+/* Class = "IBUILabel"; text = "コントロールの不透明"; ObjectID = "IzY-y9-rcs"; */
+"IzY-y9-rcs.text" = "コントロールの不透明";
+
+/* Class = "IBUILabel"; text = "Angela Tsai (vanillastar67)"; ObjectID = "LLF-kC-ZfX"; */
+"LLF-kC-ZfX.text" = "Angela Tsai (vanillastar67)";
+
+/* Class = "IBUILabel"; text = "Dropbox同期を有効"; ObjectID = "M3y-fK-XWf"; */
+"M3y-fK-XWf.text" = "Dropbox同期を有効";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "MdE-38-mM4"; */
+"MdE-38-mM4.text" = "Subtitle";
+
+/* Class = "IBUILabel"; text = "フレームスキップ"; ObjectID = "Mdm-Bf-hXu"; */
+"Mdm-Bf-hXu.text" = "フレームスキップ";
+
+/* Class = "IBUITableViewSection"; headerTitle = "開発者"; ObjectID = "O9Q-KX-eTM"; */
+"O9Q-KX-eTM.headerTitle" = "開発者";
+
+/* Class = "IBUILabel"; text = "Version"; ObjectID = "Oph-va-v9C"; */
+"Oph-va-v9C.text" = "Version";
+
+/* Class = "IBUITableViewSection"; footerTitle = "InfiniDevはユーザーが楽しむためにこのエミュレータを作成するために懸命に働く。このエミュレーターが好きなら、InfiniDevをサポートするために寄付をご検討ください。"; ObjectID = "PmD-1Z-6xs"; */
+"PmD-1Z-6xs.footerTitle" = "InfiniDevはユーザーが楽しむためにこのエミュレータを作成するために懸命に働く。このエミュレーターが好きなら、InfiniDevをサポートするために寄付をご検討ください。";
+
+/* Class = "IBUILabel"; text = "FPSを表示"; ObjectID = "RV9-0b-oWH"; */
+"RV9-0b-oWH.text" = "FPSを表示";
+
+/* Class = "IBUITableViewSection"; headerTitle = "InfiniDevの開発者"; ObjectID = "SF3-AI-Qqv"; */
+"SF3-AI-Qqv.headerTitle" = "InfiniDevの開発者";
+
+/* Class = "IBUILabel"; text = "リンクされていません"; ObjectID = "STN-h0-VIH"; */
+"STN-h0-VIH.text" = "リンクされていません";
+
+/* Class = "IBUILabel"; text = "Pluto Wang (W.MS)"; ObjectID = "So0-BA-Lcq"; */
+"So0-BA-Lcq.text" = "Pluto Wang (W.MS)";
+
+/* Class = "IBUIButton"; normalTitle = "+"; ObjectID = "Tfv-eb-wYb"; */
+"Tfv-eb-wYb.normalTitle" = "+";
+
+/* Class = "IBUILabel"; text = "InfiniDev (InfiniDev_)"; ObjectID = "Tta-Oi-9kd"; */
+"Tta-Oi-9kd.text" = "InfiniDev (InfiniDev_)";
+
+/* Class = "IBUISegmentedControl"; WTS-jQ-bi4.segmentTitles[0] = "上側"; ObjectID = "WTS-jQ-bi4"; */
+"WTS-jQ-bi4.segmentTitles[0]" = "上側";
+
+/* Class = "IBUISegmentedControl"; WTS-jQ-bi4.segmentTitles[1] = "下側"; ObjectID = "WTS-jQ-bi4"; */
+"WTS-jQ-bi4.segmentTitles[1]" = "下側";
+
+/* Class = "IBUINavigationItem"; title = "寄付"; ObjectID = "Xrj-DG-nws"; */
+"Xrj-DG-nws.title" = "寄付";
+
+/* Class = "IBUITableViewSection"; headerTitle = "コントロール"; ObjectID = "Y6o-vJ-AvE"; */
+"Y6o-vJ-AvE.headerTitle" = "コントロール";
+
+/* Class = "IBUITableViewSection"; footerTitle = "ピクセルグリッドはゲームブラーを低減します。でも、ピクセルグリッドは明るさを低減します。"; ObjectID = "Zfz-To-hqF"; */
+"Zfz-To-hqF.footerTitle" = "ピクセルグリッドはゲームブラーを低減します。でも、ピクセルグリッドは明るさを低減します。";
+
+/* Class = "IBUITableViewSection"; headerTitle = "エミュレータ"; ObjectID = "Zfz-To-hqF"; */
+"Zfz-To-hqF.headerTitle" = "エミュレータ";
+
+/* Class = "IBUILabel"; text = "GNU Lightning JIT"; ObjectID = "bIB-FM-Hft"; */
+"bIB-FM-Hft.text" = "GNU Lightning JIT";
+
+/* Class = "IBUILabel"; text = "rock88"; ObjectID = "bh8-WB-hUD"; */
+"bh8-WB-hUD.text" = "rock88";
+
+/* Class = "IBUILabel"; text = "David Chavez (dchavezlive)"; ObjectID = "cHf-jH-M4g"; */
+"cHf-jH-M4g.text" = "David Chavez (dchavezlive)";
+
+/* Class = "IBUILabel"; text = "振動"; ObjectID = "cNL-IT-Ar0"; */
+"cNL-IT-Ar0.text" = "振動";
+
+/* Class = "IBUILabel"; text = "Jesús Higueras (GranPC)"; ObjectID = "e2d-NO-1P9"; */
+"e2d-NO-1P9.text" = "Jesús Higueras (GranPC)";
+
+/* Class = "IBUILabel"; text = "DeSmuME"; ObjectID = "e63-3V-ruV"; */
+"e63-3V-ruV.text" = "DeSmuME";
+
+/* Class = "IBUILabel"; text = "フレームスキップ"; ObjectID = "gJw-qx-K1N"; */
+"gJw-qx-K1N.text" = "フレームスキップ";
+
+/* Class = "IBUILabel"; text = "コントロールのポジション"; ObjectID = "h11-xO-hGl"; */
+"h11-xO-hGl.text" = "コントロールのポジション";
+
+/* Class = "IBUILabel"; text = "ピクセルグリッド"; ObjectID = "i1H-5W-GBv"; */
+"i1H-5W-GBv.text" = "ピクセルグリッド";
+
+/* Class = "IBUILabel"; text = "nds4iosについて"; ObjectID = "jfi-JX-LAK"; */
+"jfi-JX-LAK.text" = "nds4iosについて";
+
+/* Class = "IBUILabel"; text = "Jeffrey Quesnelle (jquesnelle)"; ObjectID = "kG7-Fu-rp5"; */
+"kG7-Fu-rp5.text" = "Jeffrey Quesnelle (jquesnelle)";
+
+/* Class = "IBUILabel"; text = "60 FPS"; ObjectID = "mo4-qa-NUQ"; */
+"mo4-qa-NUQ.text" = "60 FPS";
+
+/* Class = "IBUITableViewSection"; headerTitle = "貢献者"; ObjectID = "oNt-fv-07h"; */
+"oNt-fv-07h.headerTitle" = "貢献者";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "phq-AM-6qj"; */
+"phq-AM-6qj.text" = "Title";
+
+/* Class = "IBUITableViewSection"; headerTitle = "InfiniDev"; ObjectID = "rPI-it-7HS"; */
+"rPI-it-7HS.headerTitle" = "InfiniDev";
+
+/* Class = "IBUINavigationItem"; title = "設定"; ObjectID = "rWF-4U-yKM"; */
+"rWF-4U-yKM.title" = "設定";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "uk4-JL-OOl"; */
+"uk4-JL-OOl.text" = "Subtitle";
+
+/* Class = "IBUINavigationItem"; title = "nds4iosについて"; ObjectID = "wjq-Iv-O9N"; */
+"wjq-Iv-O9N.title" = "nds4iosについて";
+
+/* Class = "IBUILabel"; text = "Karen Tsai (angelXwind)"; ObjectID = "yv5-13-ZPv"; */
+"yv5-13-ZPv.text" = "Karen Tsai (angelXwind)";
+
+/* Class = "IBUITableViewSection"; footerTitle = "© 2013-2014 InfiniDev"; ObjectID = "zoU-Tc-bmD"; */
+"zoU-Tc-bmD.footerTitle" = "© 2013-2014 InfiniDev";
+
+/* Class = "IBUITableViewSection"; headerTitle = "nds4iosについて"; ObjectID = "zoU-Tc-bmD"; */
+"zoU-Tc-bmD.headerTitle" = "nds4iosについて";
+
+/* Class = "IBUILabel"; text = "設定"; ObjectID = "zr6-zi-kgl"; */
+"zr6-zi-kgl.text" = "設定";
+
+/* Class = "IBUILabel"; text = "1.0"; ObjectID = "zt4-NA-0xW"; */
+"zt4-NA-0xW.text" = "1.0";

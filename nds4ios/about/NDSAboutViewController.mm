@@ -80,11 +80,11 @@
     
     //Set a blocking handler for the tweet sheet
     tweetSheet.completionHandler = ^(TWTweetComposeViewControllerResult result){
-        [self dismissModalViewControllerAnimated:YES];
+        [self dismissViewControllerAnimated:YES completion:nil];
     };
     
     //Show the tweet sheet
-    [self presentModalViewController:tweetSheet animated:YES];
+    [self presentViewController:tweetSheet animated:YES completion:nil];
 }
 
 @end

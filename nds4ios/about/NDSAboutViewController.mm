@@ -71,7 +71,7 @@
 
 - (IBAction)sendTweet:(id)sender {
     //New tweet sheet
-    TWTweetComposeViewController *tweetSheet = [[TWTweetComposeViewController alloc] init];
+    SLComposeViewController *tweetSheet = [SLComposeViewController composeViewControllerForServiceType:SLServiceTypeTwitter];
     
     //Preloaded message
     [tweetSheet setInitialText:@"I love playing Nintendo DS games on my iOS device with #nds4ios from @InfiniDev_"];
@@ -79,7 +79,7 @@
     [tweetSheet addURL:[NSURL URLWithString:@"http://nds4ios.angelxwind.net/"]];
     
     //Set a blocking handler for the tweet sheet
-    tweetSheet.completionHandler = ^(TWTweetComposeViewControllerResult result){
+    tweetSheet.completionHandler = ^(SLComposeViewControllerResult result){
         [self dismissViewControllerAnimated:YES completion:nil];
     };
     

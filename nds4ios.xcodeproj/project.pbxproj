@@ -91,6 +91,7 @@
 		8BEFF490178B473E00EEE55A /* menuicon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8BEFF48A178B473E00EEE55A /* menuicon@2x.png */; };
 		9C4DD2861891E5390075B66C /* GameController.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9C4DD2851891E5390075B66C /* GameController.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		9CFFEB7618B48C7C00F80903 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9CFFEB7518B48C7C00F80903 /* Images.xcassets */; };
+		AE2F3B5818E20618007A4BA0 /* Social.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE2F3B5718E20618007A4BA0 /* Social.framework */; };
 		BF2AC478177FF0B700D3CF93 /* ArmLJit.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BF2AC475177FF06600D3CF93 /* ArmLJit.cpp */; };
 		BF9D514317865CD800B5864B /* SndOut.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BF9D514117865CD800B5864B /* SndOut.cpp */; };
 		BF9D516817867F7D00B5864B /* ABXYPad.png in Resources */ = {isa = PBXBuildFile; fileRef = BF9D516017867F7D00B5864B /* ABXYPad.png */; };
@@ -342,6 +343,7 @@
 		8BEFF48A178B473E00EEE55A /* menuicon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "menuicon@2x.png"; path = "Resources/menuicon@2x.png"; sourceTree = "<group>"; };
 		9C4DD2851891E5390075B66C /* GameController.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GameController.framework; path = System/Library/Frameworks/GameController.framework; sourceTree = SDKROOT; };
 		9CFFEB7518B48C7C00F80903 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = nds4ios/Images.xcassets; sourceTree = "<group>"; };
+		AE2F3B5718E20618007A4BA0 /* Social.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Social.framework; path = System/Library/Frameworks/Social.framework; sourceTree = SDKROOT; };
 		AEA5028818E0F42E004A3829 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		AEA5028B18E0F451004A3829 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/MainStoryboard.strings; sourceTree = "<group>"; };
 		AEA5028C18E0F45B004A3829 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/MainStoryboard.strings; sourceTree = "<group>"; };
@@ -582,6 +584,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AE2F3B5818E20618007A4BA0 /* Social.framework in Frameworks */,
 				9C4DD2861891E5390075B66C /* GameController.framework in Frameworks */,
 				1A5BAE8117D184AD00BABC01 /* AudioToolbox.framework in Frameworks */,
 				D32C39DB178E749C00E6809E /* libc++.dylib in Frameworks */,
@@ -873,6 +876,7 @@
 		BFCFE0F11764FBD3000A70CF /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				AE2F3B5718E20618007A4BA0 /* Social.framework */,
 				9C4DD2851891E5390075B66C /* GameController.framework */,
 				D3B8BB911794ACCE0061D1D8 /* DropboxSDK.framework */,
 				D32C39DA178E749C00E6809E /* libc++.dylib */,

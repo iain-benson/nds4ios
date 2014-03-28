@@ -1,6 +1,6 @@
 nds4ios
 =======
-###### Supports iOS 5 to iOS 7.
+###### Supports iOS 6 to iOS 7.
 
 nds4ios is a port of nds4droid to iOS, which is based on DeSmuME.
 

@@ -1,3 +1,10 @@
+"ROM List" = "ROMリスト";
+"About nds4ios" = "nds4iosについて";
+"Settings" = "設定";
+"Donate" = "寄付";
+
+
+
 
 /* Class = "IBUITableViewController"; title = "Master"; ObjectID = "12"; */
 "12.title" = "Master";
@@ -50,9 +57,6 @@
 /* Class = "IBUIBarButtonItem"; title = "Share"; ObjectID = "7A3-nC-GqP"; */
 "7A3-nC-GqP.title" = "シェア";
 
-/* Class = "IBUILabel"; text = "Donate"; ObjectID = "7rs-Ee-hYD"; */
-"7rs-Ee-hYD.text" = "寄付";
-
 /* Class = "IBUILabel"; text = "Riley Testut (rileytestut)"; ObjectID = "AJS-fc-M6f"; */
 "AJS-fc-M6f.text" = "Riley Testut (rileytestut)";
 
@@ -64,9 +68,6 @@
 
 /* Class = "IBUILabel"; text = "Michael Zhang (Malvix_)"; ObjectID = "BbL-2O-lQB"; */
 "BbL-2O-lQB.text" = "Michael Zhang (Malvix_)";
-
-/* Class = "IBUILabel"; text = "ROM List"; ObjectID = "GCc-cx-jVv"; */
-"GCc-cx-jVv.text" = "ROMリスト";
 
 /* Class = "IBUILabel"; text = "Brian Tung (inb4ohnoes)"; ObjectID = "H5E-3d-qze"; */
 "H5E-3d-qze.text" = "Brian Tung (inb4ohnoes)";
@@ -170,9 +171,6 @@
 /* Class = "IBUILabel"; text = "Overlay Pixel Grid"; ObjectID = "i1H-5W-GBv"; */
 "i1H-5W-GBv.text" = "ピクセルグリッド";
 
-/* Class = "IBUILabel"; text = "About nds4ios"; ObjectID = "jfi-JX-LAK"; */
-"jfi-JX-LAK.text" = "nds4iosについて";
-
 /* Class = "IBUILabel"; text = "Jeffrey Quesnelle (jquesnelle)"; ObjectID = "kG7-Fu-rp5"; */
 "kG7-Fu-rp5.text" = "Jeffrey Quesnelle (jquesnelle)";
 
@@ -205,9 +203,6 @@
 
 /* Class = "IBUITableViewSection"; headerTitle = "About nds4ios"; ObjectID = "zoU-Tc-bmD"; */
 "zoU-Tc-bmD.headerTitle" = "nds4iosについて";
-
-/* Class = "IBUILabel"; text = "Settings"; ObjectID = "zr6-zi-kgl"; */
-"zr6-zi-kgl.text" = "設定";
 
 /* Class = "IBUILabel"; text = "1.0"; ObjectID = "zt4-NA-0xW"; */
 "zt4-NA-0xW.text" = "1.0";

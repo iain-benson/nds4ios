@@ -381,7 +381,7 @@
                             <outlet property="delegate" destination="12" id="15"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title="ROM List" id="36">
+                    <navigationItem key="navigationItem" title="&lt;ROM List>" id="36">
                         <barButtonItem key="rightBarButtonItem" id="St3-9D-WCq">
                             <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="Tfv-eb-wYb">
                                 <rect key="frame" x="252" y="19" width="52" height="5"/>
@@ -400,6 +400,9 @@
                             </button>
                         </barButtonItem>
                     </navigationItem>
+                    <connections>
+                        <outlet property="romListTitle" destination="36" id="d6k-fd-Xf1"/>
+                    </connections>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="17" sceneMemberID="firstResponder"/>
             </objects>

@@ -9,9 +9,6 @@
 /* Class = "IBUITableViewController"; title = "Master"; ObjectID = "12"; */
 "12.title" = "Master";
 
-/* Class = "IBUINavigationItem"; title = "ROM List"; ObjectID = "36"; */
-"36.title" = "ROM List";
-
 /* Class = "IBUILabel"; text = "0.9"; ObjectID = "0Ib-Ge-gJv"; */
 "0Ib-Ge-gJv.text" = "0.9";
 

@@ -57,6 +57,7 @@
     {
         case 0:
             sectionName = @"InfiniDev";
+            break;
         case 1:
             sectionName = NSLocalizedString(@"InfiniDev Developers", nil);
             break;

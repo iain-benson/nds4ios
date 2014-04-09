@@ -3,23 +3,23 @@
 "Settings" = "Réglages";
 "Donate" = "Faire Un Don";
 
+"Share" = "Partager";
+
+"InfiniDev Developers" = "Développeurs De InfiniDev";
+"Contributors" = "Contributeurs";
+"Emulator Core Code" = "Émulateur Code De Base";
+
 
 
 
 /* Class = "IBUITableViewController"; title = "Master"; ObjectID = "12"; */
 "12.title" = "Master";
 
-/* Class = "IBUILabel"; text = "0.9"; ObjectID = "0Ib-Ge-gJv"; */
-"0Ib-Ge-gJv.text" = "0.9";
-
 /* Class = "IBUITableViewSection"; footerTitle = "Enabling Dropbox will add an \"nds4ios\" folder to your Dropbox account. Your game saves will be synced back to that folder so it will carry across devices (iPhone, iPad, iPod touch, Android, PC, etc)."; ObjectID = "0Py-uK-oNg"; */
 "0Py-uK-oNg.footerTitle" = "L'activation de Dropbox va ajouter un dossier pour \"nds4ios\" à votre compte pour Dropbox. Vos sauvegardes de jeu sera synchronisé à ce dossier afin qu'il portera à travers les dispositifs (iPhone, iPad, iPod touch, Android, PC, etc.)";
 
 /* Class = "IBUITableViewSection"; headerTitle = "Dropbox"; ObjectID = "0Py-uK-oNg"; */
 "0Py-uK-oNg.headerTitle" = "Dropbox";
-
-/* Class = "IBUILabel"; text = "Jesús A. Álvarez (maczydeco)"; ObjectID = "0tz-2Z-sXn"; */
-"0tz-2Z-sXn.text" = "Jesús A. Álvarez (maczydeco)";
 
 /* Class = "IBUILabel"; text = "Donate using PayPal"; ObjectID = "1M7-Sa-5aC"; */
 "1M7-Sa-5aC.text" = "Faire un don avec PayPal";
@@ -42,32 +42,17 @@
 /* Class = "IBUISegmentedControl"; 2i9-9X-BIw.segmentTitles[5] = "Auto"; ObjectID = "2i9-9X-BIw"; */
 "2i9-9X-BIw.segmentTitles[5]" = "Auto";
 
-/* Class = "IBUILabel"; text = "winocm (winocm)"; ObjectID = "3BR-VX-fvN"; */
-"3BR-VX-fvN.text" = "winocm (winocm)";
-
 /* Class = "IBUILabel"; text = "Title"; ObjectID = "3EM-sn-Rbx"; */
 "3EM-sn-Rbx.text" = "Title";
 
 /* Class = "IBUILabel"; text = "Control Pad Style"; ObjectID = "628-xJ-TE3"; */
 "628-xJ-TE3.text" = "Style De Contrôle";
 
-/* Class = "IBUIBarButtonItem"; title = "Share"; ObjectID = "7A3-nC-GqP"; */
-"7A3-nC-GqP.title" = "Partager";
-
-/* Class = "IBUILabel"; text = "Riley Testut (rileytestut)"; ObjectID = "AJS-fc-M6f"; */
-"AJS-fc-M6f.text" = "Riley Testut (rileytestut)";
-
 /* Class = "IBUISegmentedControl"; Aa4-Hv-ujp.segmentTitles[0] = "D-Pad"; ObjectID = "Aa4-Hv-ujp"; */
 "Aa4-Hv-ujp.segmentTitles[0]" = "D-Pad";
 
 /* Class = "IBUISegmentedControl"; Aa4-Hv-ujp.segmentTitles[1] = "Joystick"; ObjectID = "Aa4-Hv-ujp"; */
 "Aa4-Hv-ujp.segmentTitles[1]" = "Joystick";
-
-/* Class = "IBUILabel"; text = "Michael Zhang (Malvix_)"; ObjectID = "BbL-2O-lQB"; */
-"BbL-2O-lQB.text" = "Michael Zhang (Malvix_)";
-
-/* Class = "IBUILabel"; text = "Brian Tung (inb4ohnoes)"; ObjectID = "H5E-3d-qze"; */
-"H5E-3d-qze.text" = "Brian Tung (inb4ohnoes)";
 
 /* Class = "IBUILabel"; text = "title"; ObjectID = "HNM-OJ-Ky7"; */
 "HNM-OJ-Ky7.text" = "title";
@@ -78,14 +63,8 @@
 /* Class = "IBUITableViewSection"; headerTitle = "Experimental"; ObjectID = "HQs-Z9-d7P"; */
 "HQs-Z9-d7P.headerTitle" = "Expérimental";
 
-/* Class = "IBUITableViewSection"; headerTitle = "Emulator Core Code"; ObjectID = "Iv8-eM-IZX"; */
-"Iv8-eM-IZX.headerTitle" = "Émulateur Code De Base";
-
 /* Class = "IBUILabel"; text = "Control Opacity (Portrait)"; ObjectID = "IzY-y9-rcs"; */
 "IzY-y9-rcs.text" = "L'Opacité Des Contrôles";
-
-/* Class = "IBUILabel"; text = "Angela Tsai (vanillastar67)"; ObjectID = "LLF-kC-ZfX"; */
-"LLF-kC-ZfX.text" = "Angela Tsai (vanillastar67)";
 
 /* Class = "IBUILabel"; text = "Enable Dropbox Sync"; ObjectID = "M3y-fK-XWf"; */
 "M3y-fK-XWf.text" = "Synchronisation";
@@ -99,29 +78,17 @@
 /* Class = "IBUITableViewSection"; headerTitle = "Developer"; ObjectID = "O9Q-KX-eTM"; */
 "O9Q-KX-eTM.headerTitle" = "Développeur";
 
-/* Class = "IBUILabel"; text = "Version"; ObjectID = "Oph-va-v9C"; */
-"Oph-va-v9C.text" = "Version";
-
 /* Class = "IBUITableViewSection"; footerTitle = "We all work hard to make this into software that users will enjoy and love. If you enjoy this software, please consider making a donation to help us create and provide better things."; ObjectID = "PmD-1Z-6xs"; */
 "PmD-1Z-6xs.footerTitle" = "Nous travaillons très dur pour que vous pouvez apprécier et aimer ce logiciel. Si vous aimez ce logiciel, s'il vous plaît, envisager de faire un don pour nous aider à créer et a fournir de meilleures choses.";
 
 /* Class = "IBUILabel"; text = "Show FPS"; ObjectID = "RV9-0b-oWH"; */
 "RV9-0b-oWH.text" = "Montrer Le FPS";
 
-/* Class = "IBUITableViewSection"; headerTitle = "InfiniDev Developers"; ObjectID = "SF3-AI-Qqv"; */
-"SF3-AI-Qqv.headerTitle" = "Développeurs De InfiniDev";
-
 /* Class = "IBUILabel"; text = "Not Linked"; ObjectID = "STN-h0-VIH"; */
 "STN-h0-VIH.text" = "Non Lié";
 
-/* Class = "IBUILabel"; text = "Pluto Wang (W.MS)"; ObjectID = "So0-BA-Lcq"; */
-"So0-BA-Lcq.text" = "Pluto Wang (W.MS)";
-
 /* Class = "IBUIButton"; normalTitle = "+"; ObjectID = "Tfv-eb-wYb"; */
 "Tfv-eb-wYb.normalTitle" = "+";
-
-/* Class = "IBUILabel"; text = "InfiniDev (InfiniDev_)"; ObjectID = "Tta-Oi-9kd"; */
-"Tta-Oi-9kd.text" = "InfiniDev (InfiniDev_)";
 
 /* Class = "IBUISegmentedControl"; WTS-jQ-bi4.segmentTitles[0] = "Top"; ObjectID = "WTS-jQ-bi4"; */
 "WTS-jQ-bi4.segmentTitles[0]" = "Top";
@@ -144,20 +111,8 @@
 /* Class = "IBUILabel"; text = "GNU Lightning JIT"; ObjectID = "bIB-FM-Hft"; */
 "bIB-FM-Hft.text" = "GNU Lightning JIT";
 
-/* Class = "IBUILabel"; text = "rock88"; ObjectID = "bh8-WB-hUD"; */
-"bh8-WB-hUD.text" = "rock88";
-
-/* Class = "IBUILabel"; text = "David Chavez (dchavezlive)"; ObjectID = "cHf-jH-M4g"; */
-"cHf-jH-M4g.text" = "David Chavez (dchavezlive)";
-
 /* Class = "IBUILabel"; text = "Vibration"; ObjectID = "cNL-IT-Ar0"; */
 "cNL-IT-Ar0.text" = "Vibration";
-
-/* Class = "IBUILabel"; text = "Jesús Higueras (GranPC)"; ObjectID = "e2d-NO-1P9"; */
-"e2d-NO-1P9.text" = "Jesús Higueras (GranPC)";
-
-/* Class = "IBUILabel"; text = "DeSmuME"; ObjectID = "e63-3V-ruV"; */
-"e63-3V-ruV.text" = "DeSmuME";
 
 /* Class = "IBUILabel"; text = "Disable Sound"; ObjectID = "gJw-qx-K1N"; */
 "gJw-qx-K1N.text" = "Désactiver Le Son";
@@ -168,38 +123,14 @@
 /* Class = "IBUILabel"; text = "Overlay Pixel Grid"; ObjectID = "i1H-5W-GBv"; */
 "i1H-5W-GBv.text" = "Grille De Pixels";
 
-/* Class = "IBUILabel"; text = "Jeffrey Quesnelle (jquesnelle)"; ObjectID = "kG7-Fu-rp5"; */
-"kG7-Fu-rp5.text" = "Jeffrey Quesnelle (jquesnelle)";
-
 /* Class = "IBUILabel"; text = "60 FPS"; ObjectID = "mo4-qa-NUQ"; */
 "mo4-qa-NUQ.text" = "60 FPS";
 
-/* Class = "IBUITableViewSection"; headerTitle = "Contributors"; ObjectID = "oNt-fv-07h"; */
-"oNt-fv-07h.headerTitle" = "Contributeurs";
-
 /* Class = "IBUILabel"; text = "Title"; ObjectID = "phq-AM-6qj"; */
 "phq-AM-6qj.text" = "Title";
-
-/* Class = "IBUITableViewSection"; headerTitle = "InfiniDev"; ObjectID = "rPI-it-7HS"; */
-"rPI-it-7HS.headerTitle" = "InfiniDev";
 
 /* Class = "IBUINavigationItem"; title = "Settings"; ObjectID = "rWF-4U-yKM"; */
 "rWF-4U-yKM.title" = "Réglages";
 
 /* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "uk4-JL-OOl"; */
 "uk4-JL-OOl.text" = "Subtitle";
-
-/* Class = "IBUINavigationItem"; title = "About nds4ios"; ObjectID = "wjq-Iv-O9N"; */
-"wjq-Iv-O9N.title" = "À Propos De nds4ios";
-
-/* Class = "IBUILabel"; text = "Karen Tsai (angelXwind)"; ObjectID = "yv5-13-ZPv"; */
-"yv5-13-ZPv.text" = "Karen Tsai (angelXwind)";
-
-/* Class = "IBUITableViewSection"; footerTitle = "© 2013-2014 InfiniDev"; ObjectID = "zoU-Tc-bmD"; */
-"zoU-Tc-bmD.footerTitle" = "© 2013-2014 InfiniDev";
-
-/* Class = "IBUITableViewSection"; headerTitle = "About nds4ios"; ObjectID = "zoU-Tc-bmD"; */
-"zoU-Tc-bmD.headerTitle" = "À Propos De nds4ios";
-
-/* Class = "IBUILabel"; text = "1.0"; ObjectID = "zt4-NA-0xW"; */
-"zt4-NA-0xW.text" = "1.0";

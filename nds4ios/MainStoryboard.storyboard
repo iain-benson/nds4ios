@@ -599,7 +599,7 @@
                                     </tableViewCell>
                                 </cells>
                             </tableViewSection>
-                            <tableViewSection headerTitle="InfiniDev Developers" id="SF3-AI-Qqv" userLabel="InfiniDev">
+                            <tableViewSection headerTitle="&lt;InfiniDev Developers>" id="SF3-AI-Qqv" userLabel="InfiniDev">
                                 <cells>
                                     <tableViewCell contentMode="scaleToFill" selectionStyle="gray" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" textLabel="yv5-13-ZPv" style="IBUITableViewCellStyleDefault" id="O4X-VK-QjV">
                                         <rect key="frame" x="0.0" y="211" width="320" height="44"/>
@@ -823,7 +823,7 @@
                                     </tableViewCell>
                                 </cells>
                             </tableViewSection>
-                            <tableViewSection headerTitle="Contributors" footerTitle="" id="oNt-fv-07h" userLabel="Contributors">
+                            <tableViewSection headerTitle="&lt;Contributors>" footerTitle="" id="oNt-fv-07h" userLabel="Contributors">
                                 <cells>
                                     <tableViewCell contentMode="scaleToFill" selectionStyle="gray" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" textLabel="bh8-WB-hUD" style="IBUITableViewCellStyleDefault" id="gz3-tq-Ijd">
                                         <rect key="frame" x="0.0" y="699" width="320" height="44"/>
@@ -861,12 +861,29 @@
                                         </tableViewCellContentView>
                                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                     </tableViewCell>
+                                    <tableViewCell contentMode="scaleToFill" selectionStyle="gray" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" textLabel="kG7-Fu-rp5" style="IBUITableViewCellStyleDefault" id="Sj0-Te-u8n">
+                                        <rect key="frame" x="0.0" y="787" width="320" height="44"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Sj0-Te-u8n" id="OEN-3n-7rI">
+                                            <rect key="frame" x="0.0" y="0.0" width="320" height="43"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <label opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="left" text="Iain Benson (iain_benson)" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="ZmS-u8-owX">
+                                                    <rect key="frame" x="15" y="0.0" width="290" height="43"/>
+                                                    <autoresizingMask key="autoresizingMask"/>
+                                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                                    <nil key="highlightedColor"/>
+                                                </label>
+                                            </subviews>
+                                        </tableViewCellContentView>
+                                    </tableViewCell>
                                 </cells>
                             </tableViewSection>
-                            <tableViewSection headerTitle="Emulator Core Code" footerTitle="" id="Iv8-eM-IZX" userLabel="DeSmuME">
+                            <tableViewSection headerTitle="&lt;Emulator Core Code>" footerTitle="" id="Iv8-eM-IZX" userLabel="DeSmuME">
                                 <cells>
                                     <tableViewCell contentMode="scaleToFill" selectionStyle="gray" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" textLabel="e63-3V-ruV" style="IBUITableViewCellStyleDefault" id="vmr-UF-N8x">
-                                        <rect key="frame" x="0.0" y="835" width="320" height="44"/>
+                                        <rect key="frame" x="0.0" y="879" width="320" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="vmr-UF-N8x" id="kzD-qS-18S">
                                             <rect key="frame" x="0.0" y="0.0" width="320" height="43"/>
@@ -891,10 +908,10 @@
                                     </tableViewCell>
                                 </cells>
                             </tableViewSection>
-                            <tableViewSection headerTitle="About nds4ios" footerTitle="© 2013-2014 InfiniDev" id="zoU-Tc-bmD" userLabel="Version">
+                            <tableViewSection headerTitle="&lt;About nds4ios>" footerTitle="© 2013-2014 InfiniDev" id="zoU-Tc-bmD" userLabel="Version">
                                 <cells>
                                     <tableViewCell contentMode="scaleToFill" selectionStyle="gray" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" textLabel="Oph-va-v9C" style="IBUITableViewCellStyleDefault" id="dMh-Oa-8e4">
-                                        <rect key="frame" x="0.0" y="927" width="320" height="44"/>
+                                        <rect key="frame" x="0.0" y="971" width="320" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="dMh-Oa-8e4" id="SWx-Ro-0H2">
                                             <rect key="frame" x="0.0" y="0.0" width="320" height="43"/>
@@ -935,6 +952,7 @@
                         </barButtonItem>
                     </navigationItem>
                     <connections>
+                        <outlet property="aboutTitle" destination="wjq-Iv-O9N" id="w2h-hy-gmh"/>
                         <outlet property="desmumeVersion" destination="0Ib-Ge-gJv" id="niT-vX-XR5"/>
                         <outlet property="tweetButton" destination="7A3-nC-GqP" id="meR-P8-Gyn"/>
                         <outlet property="versionLabel" destination="zt4-NA-0xW" id="JbO-fV-0RI"/>

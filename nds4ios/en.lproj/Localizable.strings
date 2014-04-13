@@ -9,6 +9,10 @@
 "Contributors" = "Contributors";
 "Emulator Core Code" = "Emulator Core Code";
 
+"Donate using PayPal" = "Donate using PayPal";
+"We all work hard to make this into software that users will enjoy and love. If you enjoy this software, please consider making a donation to help us create and provide better things." = "We all work hard to make this into software that users will enjoy and love. If you enjoy this software, please consider making a donation to help us create and provide better things.";
+
+
 
 
 
@@ -20,9 +24,6 @@
 
 /* Class = "IBUITableViewSection"; headerTitle = "Dropbox"; ObjectID = "0Py-uK-oNg"; */
 "0Py-uK-oNg.headerTitle" = "Dropbox";
-
-/* Class = "IBUILabel"; text = "Donate using PayPal"; ObjectID = "1M7-Sa-5aC"; */
-"1M7-Sa-5aC.text" = "Donate using PayPal";
 
 /* Class = "IBUISegmentedControl"; 2i9-9X-BIw.segmentTitles[0] = "0"; ObjectID = "2i9-9X-BIw"; */
 "2i9-9X-BIw.segmentTitles[0]" = "0";
@@ -78,9 +79,6 @@
 /* Class = "IBUITableViewSection"; headerTitle = "Developer"; ObjectID = "O9Q-KX-eTM"; */
 "O9Q-KX-eTM.headerTitle" = "Developer";
 
-/* Class = "IBUITableViewSection"; footerTitle = "We all work hard to make this into software that users will enjoy and love. If you enjoy this software, please consider making a donation to help us create and provide better things."; ObjectID = "PmD-1Z-6xs"; */
-"PmD-1Z-6xs.footerTitle" = "We all work hard to make this into software that users will enjoy and love. If you enjoy this software, please consider making a donation to help us create and provide better things.";
-
 /* Class = "IBUILabel"; text = "Show FPS"; ObjectID = "RV9-0b-oWH"; */
 "RV9-0b-oWH.text" = "Show FPS";
 
@@ -95,9 +93,6 @@
 
 /* Class = "IBUISegmentedControl"; WTS-jQ-bi4.segmentTitles[1] = "Bottom"; ObjectID = "WTS-jQ-bi4"; */
 "WTS-jQ-bi4.segmentTitles[1]" = "Bottom";
-
-/* Class = "IBUINavigationItem"; title = "Donate"; ObjectID = "Xrj-DG-nws"; */
-"Xrj-DG-nws.title" = "Donate";
 
 /* Class = "IBUITableViewSection"; headerTitle = "Controls"; ObjectID = "Y6o-vJ-AvE"; */
 "Y6o-vJ-AvE.headerTitle" = "Controls";

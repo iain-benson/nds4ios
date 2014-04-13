@@ -564,7 +564,7 @@
             </objects>
             <point key="canvasLocation" x="1376" y="-934"/>
         </scene>
-        <!--About View Controller - About nds4ios-->
+        <!--About View Controller - <About nds4ios>-->
         <scene sceneID="prg-5R-kCK">
             <objects>
                 <tableViewController id="kY3-6f-RlH" customClass="NDSAboutViewController" sceneMemberID="viewController">
@@ -943,8 +943,8 @@
                             <outlet property="delegate" destination="kY3-6f-RlH" id="IxX-Tf-Gs1"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title="About nds4ios" id="wjq-Iv-O9N">
-                        <barButtonItem key="rightBarButtonItem" title="Share" id="7A3-nC-GqP">
+                    <navigationItem key="navigationItem" title="&lt;About nds4ios>" id="wjq-Iv-O9N">
+                        <barButtonItem key="rightBarButtonItem" title="&lt;Share>" id="7A3-nC-GqP">
                             <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                             <connections>
                                 <action selector="sendTweet:" destination="kY3-6f-RlH" id="4rn-Zw-PT2"/>

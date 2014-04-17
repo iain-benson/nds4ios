@@ -27,16 +27,16 @@
 "Top" = "Top";
 "Bottom" = "Bottom";
 
-"Mdm-Bf-hXu.text" = "Frame Skip";
-"gJw-qx-K1N.text" = "Disable Sound";
-"i1H-5W-GBv.text" = "Overlay Pixel Grid";
+"Frame Skip" = "Frame Skip";
+"Disable Sound" = "Disable Sound";
+"Overlay Pixel Grid" = "Overlay Pixel Grid";
 
-"628-xJ-TE3.text" = "Control Pad Style";
-"h11-xO-hGl.text" = "Controls Position (Portrait)";
-"IzY-y9-rcs.text" = "Control Opacity (Portrait)";
+"Control Pad Style" = "Control Pad Style";
+"Controls Position (Portrait)" = "Controls Position (Portrait)";
+"Control Opacity (Portrait)" = "Control Opacity (Portrait)";
 
-"M3y-fK-XWf.text" = "Enable Dropbox Sync";
-"STN-h0-VIH.text" = "Not Linked";
+"Enable Dropbox Sync" = "Enable Dropbox Sync";
+"Not Linked" = "Not Linked";
 
-"RV9-0b-oWH.text" = "Show FPS";
-"cNL-IT-Ar0.text" = "Vibration";
+"Show FPS" = "Show FPS";
+"Vibration" = "Vibration";

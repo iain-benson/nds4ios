@@ -12,120 +12,31 @@
 "Donate using PayPal" = "PayPalを使って寄付する";
 "We all work hard to make this into software that users will enjoy and love. If you enjoy this software, please consider making a donation to help us create and provide better things." = "InfiniDevはユーザーが楽しむためにこのエミュレータを作成するために懸命に働く。このエミュレーターが好きなら、InfiniDevをサポートするために寄付をご検討ください。";
 
+"Emulator" = "エミュレータ";
+"Controls" = "コントロール";
+"Developer" = "開発者";
+"Experimental" = "実験的";
 
+"The pixel grid makes games appear less blurry, but at the same time, reduces brightness." = "ピクセルグリッドはゲームブラーを低減します。でも、ピクセルグリッドは明るさを低減します。";
+"Enabling Dropbox will add an \"nds4ios\" folder to your Dropbox account. Your game saves will be synced back to that folder so it will carry across devices (iPhone, iPad, iPod touch, Android, PC, etc)." = "有効化Dropbox同期はあなたのDropboxアカウントに「nds4ios」フォルダを追加します。あなたのセーブデータ（DSV）はそのDropboxフォルダに同期されます。 したがって、あなたのセーブデータはすべてのデバイスで利用できるようになります。（iPhone、iPad、iPod touch、Android、PC）";
+"GNU Lighting JIT makes games run faster. You must be jailbroken or nds4ios will crash." = "GNU Lightning JITはエミュレーションが速くなります。";
 
+"Auto" = "オート";
+"D-Pad" = "Dパッド";
+"Joystick" = "ジョイスティック";
+"Top" = "上側";
+"Bottom" = "下側";
 
+"Frame Skip" = "フレームスキップ";
+"Disable Sound" = "サウンドを無効にする";
+"Overlay Pixel Grid" = "ピクセルグリッド";
 
-/* Class = "IBUITableViewController"; title = "Master"; ObjectID = "12"; */
-"12.title" = "Master";
+"Control Pad Style" = "コントロールパッドスタイル";
+"Controls Position (Portrait)" = "コントロールのポジション";
+"Control Opacity (Portrait)" = "コントロールの不透明";
 
-/* Class = "IBUITableViewSection"; footerTitle = "Enabling Dropbox will add an \"nds4ios\" folder to your Dropbox account. Your game saves will be synced back to that folder so it will carry across devices (iPhone, iPad, iPod touch, Android, PC, etc)."; ObjectID = "0Py-uK-oNg"; */
-"0Py-uK-oNg.footerTitle" = "有効化Dropbox同期はあなたのDropboxアカウントに「nds4ios」フォルダを追加します。あなたのセーブデータ（DSV）はそのDropboxフォルダに同期されます。 したがって、あなたのセーブデータはすべてのデバイスで利用できるようになります。（iPhone、iPad、iPod touch、Android、PC）";
+"Enable Dropbox Sync" = "Dropbox同期を有効";
+"Not Linked" = "リンクされていません";
 
-/* Class = "IBUITableViewSection"; headerTitle = "Dropbox"; ObjectID = "0Py-uK-oNg"; */
-"0Py-uK-oNg.headerTitle" = "Dropbox";
-
-/* Class = "IBUISegmentedControl"; 2i9-9X-BIw.segmentTitles[0] = "0"; ObjectID = "2i9-9X-BIw"; */
-"2i9-9X-BIw.segmentTitles[0]" = "0";
-
-/* Class = "IBUISegmentedControl"; 2i9-9X-BIw.segmentTitles[1] = "1"; ObjectID = "2i9-9X-BIw"; */
-"2i9-9X-BIw.segmentTitles[1]" = "1";
-
-/* Class = "IBUISegmentedControl"; 2i9-9X-BIw.segmentTitles[2] = "2"; ObjectID = "2i9-9X-BIw"; */
-"2i9-9X-BIw.segmentTitles[2]" = "2";
-
-/* Class = "IBUISegmentedControl"; 2i9-9X-BIw.segmentTitles[3] = "3"; ObjectID = "2i9-9X-BIw"; */
-"2i9-9X-BIw.segmentTitles[3]" = "3";
-
-/* Class = "IBUISegmentedControl"; 2i9-9X-BIw.segmentTitles[4] = "4"; ObjectID = "2i9-9X-BIw"; */
-"2i9-9X-BIw.segmentTitles[4]" = "4";
-
-/* Class = "IBUISegmentedControl"; 2i9-9X-BIw.segmentTitles[5] = "Auto"; ObjectID = "2i9-9X-BIw"; */
-"2i9-9X-BIw.segmentTitles[5]" = "オート";
-
-/* Class = "IBUILabel"; text = "Title"; ObjectID = "3EM-sn-Rbx"; */
-"3EM-sn-Rbx.text" = "Title";
-
-/* Class = "IBUILabel"; text = "Control Pad Style"; ObjectID = "628-xJ-TE3"; */
-"628-xJ-TE3.text" = "コントロールパッドスタイル";
-
-/* Class = "IBUISegmentedControl"; Aa4-Hv-ujp.segmentTitles[0] = "D-Pad"; ObjectID = "Aa4-Hv-ujp"; */
-"Aa4-Hv-ujp.segmentTitles[0]" = "Dパッド";
-
-/* Class = "IBUISegmentedControl"; Aa4-Hv-ujp.segmentTitles[1] = "Joystick"; ObjectID = "Aa4-Hv-ujp"; */
-"Aa4-Hv-ujp.segmentTitles[1]" = "ジョイスティック";
-
-/* Class = "IBUILabel"; text = "title"; ObjectID = "HNM-OJ-Ky7"; */
-"HNM-OJ-Ky7.text" = "title";
-
-/* Class = "IBUITableViewSection"; footerTitle = "JIT makes games run faster. You must be jailbroken or nds4ios will crash."; ObjectID = "HQs-Z9-d7P"; */
-"HQs-Z9-d7P.footerTitle" = "GNU Lightning JITはエミュレーションが速くなります。";
-
-/* Class = "IBUITableViewSection"; headerTitle = "Experimental"; ObjectID = "HQs-Z9-d7P"; */
-"HQs-Z9-d7P.headerTitle" = "実験的";
-
-/* Class = "IBUILabel"; text = "Control Opacity (Portrait)"; ObjectID = "IzY-y9-rcs"; */
-"IzY-y9-rcs.text" = "コントロールの不透明";
-
-/* Class = "IBUILabel"; text = "Enable Dropbox Sync"; ObjectID = "M3y-fK-XWf"; */
-"M3y-fK-XWf.text" = "Dropbox同期を有効";
-
-/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "MdE-38-mM4"; */
-"MdE-38-mM4.text" = "Subtitle";
-
-/* Class = "IBUILabel"; text = "Frame Skip"; ObjectID = "Mdm-Bf-hXu"; */
-"Mdm-Bf-hXu.text" = "フレームスキップ";
-
-/* Class = "IBUITableViewSection"; headerTitle = "Developer"; ObjectID = "O9Q-KX-eTM"; */
-"O9Q-KX-eTM.headerTitle" = "開発者";
-
-/* Class = "IBUILabel"; text = "Show FPS"; ObjectID = "RV9-0b-oWH"; */
-"RV9-0b-oWH.text" = "FPSを表示";
-
-/* Class = "IBUILabel"; text = "Not Linked"; ObjectID = "STN-h0-VIH"; */
-"STN-h0-VIH.text" = "リンクされていません";
-
-/* Class = "IBUIButton"; normalTitle = "+"; ObjectID = "Tfv-eb-wYb"; */
-"Tfv-eb-wYb.normalTitle" = "+";
-
-/* Class = "IBUISegmentedControl"; WTS-jQ-bi4.segmentTitles[0] = "Top"; ObjectID = "WTS-jQ-bi4"; */
-"WTS-jQ-bi4.segmentTitles[0]" = "上側";
-
-/* Class = "IBUISegmentedControl"; WTS-jQ-bi4.segmentTitles[1] = "Bottom"; ObjectID = "WTS-jQ-bi4"; */
-"WTS-jQ-bi4.segmentTitles[1]" = "下側";
-
-/* Class = "IBUITableViewSection"; headerTitle = "Controls"; ObjectID = "Y6o-vJ-AvE"; */
-"Y6o-vJ-AvE.headerTitle" = "コントロール";
-
-/* Class = "IBUITableViewSection"; footerTitle = "The pixel grid makes games appear less blurry, but at the same time, reduces brightness."; ObjectID = "Zfz-To-hqF"; */
-"Zfz-To-hqF.footerTitle" = "ピクセルグリッドはゲームブラーを低減します。でも、ピクセルグリッドは明るさを低減します。";
-
-/* Class = "IBUITableViewSection"; headerTitle = "Emulator"; ObjectID = "Zfz-To-hqF"; */
-"Zfz-To-hqF.headerTitle" = "エミュレータ";
-
-/* Class = "IBUILabel"; text = "GNU Lightning JIT"; ObjectID = "bIB-FM-Hft"; */
-"bIB-FM-Hft.text" = "GNU Lightning JIT";
-
-/* Class = "IBUILabel"; text = "Vibration"; ObjectID = "cNL-IT-Ar0"; */
-"cNL-IT-Ar0.text" = "振動";
-
-/* Class = "IBUILabel"; text = "Disable Sound"; ObjectID = "gJw-qx-K1N"; */
-"gJw-qx-K1N.text" = "フレームスキップ";
-
-/* Class = "IBUILabel"; text = "Controls Position (Portrait)"; ObjectID = "h11-xO-hGl"; */
-"h11-xO-hGl.text" = "コントロールのポジション";
-
-/* Class = "IBUILabel"; text = "Overlay Pixel Grid"; ObjectID = "i1H-5W-GBv"; */
-"i1H-5W-GBv.text" = "ピクセルグリッド";
-
-/* Class = "IBUILabel"; text = "60 FPS"; ObjectID = "mo4-qa-NUQ"; */
-"mo4-qa-NUQ.text" = "60 FPS";
-
-/* Class = "IBUILabel"; text = "Title"; ObjectID = "phq-AM-6qj"; */
-"phq-AM-6qj.text" = "Title";
-
-/* Class = "IBUINavigationItem"; title = "Settings"; ObjectID = "rWF-4U-yKM"; */
-"rWF-4U-yKM.title" = "設定";
-
-/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "uk4-JL-OOl"; */
-"uk4-JL-OOl.text" = "Subtitle";
+"Show FPS" = "FPSを表示";
+"Vibration" = "振動";

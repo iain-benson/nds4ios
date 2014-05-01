@@ -9,11 +9,15 @@
 #import <UIKit/UIKit.h>
 #import <DropboxSDK/DropboxSDK.h>
 #import "DocWatchHelper.h"
+#import "RSTWebViewController.h"
+#import "DownloadManager.h"
 
-@interface NDSROMTableViewController : UITableViewController
+@interface NDSROMTableViewController : UITableViewController <RSTWebViewControllerDownloadDelegate, RSTWebViewControllerDelegate, DownloadManagerDelegate>
 {
     NSArray *games;
     DocWatchHelper *docWatchHelper;
+    
+    IBOutlet UINavigationItem *romListTitle;
 }
 
 - (void)reloadGames:(NSNotification*)aNotification;

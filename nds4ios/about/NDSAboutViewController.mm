@@ -30,6 +30,8 @@
     [super viewDidLoad];
     [self.navigationController.navigationBar setTintColor:[UIColor colorWithRed:78.0/255.0 green:156.0/255.0 blue:206.0/255.0 alpha:1.0]];
     
+    aboutTitle.title = NSLocalizedString(@"About nds4ios", nil);
+    tweetButton.title = NSLocalizedString(@"Share", nil);
     versionLabel.text = [NSBundle mainBundle].infoDictionary[@"GitVersionString"];
     desmumeVersion.text = [NSString stringWithCString:EMU_version() encoding:NSASCIIStringEncoding];
     
@@ -48,9 +50,37 @@
 
 #pragma mark - Table view delegate
 
+- (NSString *)tableView:(UITableView *)tableView  titleForHeaderInSection:(NSInteger)section
+{
+    NSString *sectionName;
+    switch (section)
+    {
+        case 0:
+            sectionName = @"InfiniDev";
+            break;
+        case 1:
+            sectionName = NSLocalizedString(@"InfiniDev Developers", nil);
+            break;
+        case 2:
+            sectionName = NSLocalizedString(@"Contributors", nil);
+            break;
+        case 3:
+            sectionName = NSLocalizedString(@"Emulator Core Code", nil);
+            break;
+        case 4:
+            sectionName = NSLocalizedString(@"About nds4ios", nil);
+            break;
+        default:
+            sectionName = @"";
+            break;
+    }
+    return sectionName;
+}
+
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
 {
     NSArray *screenNames = @[@"angelXwind", @"iPlop", @"maczydeco", @"rileytestut", @"dchavezlive", @"Malvix_", @"wj82315", @"vanillastar67", @"winocm", @"GranPC"];
+    NSArray *contributors = @[@"", @"jquesnelle", @"einfallstoll"];
     if (indexPath.section == 0)
     {
         NSURL *twitterURL = [NSURL URLWithString:[NSString stringWithFormat:@"twitter://user?screen_name=InfiniDev_"]];
@@ -61,6 +91,13 @@
     } else if (indexPath.section == 1 && indexPath.row < screenNames.count)
     {
         NSURL *twitterURL = [NSURL URLWithString:[NSString stringWithFormat:@"twitter://user?screen_name=%@", screenNames[indexPath.row]]];
+        if ([[UIApplication sharedApplication] canOpenURL:twitterURL])
+            [[UIApplication sharedApplication] openURL:twitterURL];
+        else
+            [[UIApplication sharedApplication] openURL:[NSURL URLWithString:[NSString stringWithFormat:@"https://twitter.com/%@", screenNames[indexPath.row]]]];
+    } else if (indexPath.section == 2 && indexPath.row < screenNames.count && [((NSString *)contributors[indexPath.row]) length] > 0)
+    {
+        NSURL *twitterURL = [NSURL URLWithString:[NSString stringWithFormat:@"twitter://user?screen_name=%@", contributors[indexPath.row]]];
         if ([[UIApplication sharedApplication] canOpenURL:twitterURL])
             [[UIApplication sharedApplication] openURL:twitterURL];
         else
